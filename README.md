@@ -1,4 +1,4 @@
-# netbanl-loadn-calculator
+# nedbank-loan-calculator
 
 # Exercise 1
 - If the interest rate is less than 7, print("The interest rate is less than seven")
